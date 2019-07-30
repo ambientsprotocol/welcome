@@ -1,6 +1,6 @@
 # Welcome to Ambients!
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/ambientsprotocol/community)
 
 > The Ambients Protocol community repo
 
